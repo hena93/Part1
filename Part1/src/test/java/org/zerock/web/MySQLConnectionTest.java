@@ -1,4 +1,4 @@
-package org.zerock.web.MySQLConnectionTest;
+package org.zerock.web;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
